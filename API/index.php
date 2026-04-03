@@ -83,19 +83,19 @@ footer {
   <div class="projects"><div class="card">
   <h3>Calculatrice JS</h3>
   <p>Une calculatrice simple en JavaScript.</p>
-  <a href="https://ton-lien-projet1.com" class="btn" target="_blank">Voir le projet</a>
+  <a href="" class="btn" target="_blank">Voir le projet</a>
 </div>
 
 <div class="card">
   <h3>Application Fitness</h3>
   <p>Programme basé sur le poids et la taille.</p>
-  <a href="https://ton-lien-projet2.com" class="btn" target="_blank">Voir le projet</a>
+  <a href="" class="btn" target="_blank">Voir le projet</a>
 </div>
 
 <div class="card">
   <h3>Site E-commerce</h3>
   <p>Plateforme simple pour vendre des produits.</p>
-  <a href="https://ton-lien-projet3.com" class="btn" target="_blank">Voir le projet</a>
+  <a href="" class="btn" target="_blank">Voir le projet</a>
 </div>
 
   </div>
